@@ -1,0 +1,52 @@
+tilaus_id,pvm,asiakas,asiakastyyppi,kanava,listahinta,alennus_pct,summa
+T26-001,2026-06-01,R. Kinnunen,kuluttaja,verkkokauppa,690.00,0,690.00
+T26-002,2026-06-02,Ravintola Kelo Oy,yritys,sahkoposti,3800.00,10,3420.00
+T26-003,2026-06-03,T. Koskinen,kuluttaja,puhelin,1900.00,0,1900.00
+T26-004,2026-06-04,R. Kinnunen,kuluttaja,verkkokauppa,1490.00,0,1490.00
+T26-005,2026-06-05,L. Virtanen,kuluttaja,verkkokauppa,600.00,0,600.00
+T26-006,2026-06-08,Koti & Piha Oy,jalleenmyyja,puhelin,4690.00,20,3752.00
+T26-007,2026-06-09,P. Hiltunen,kuluttaja,verkkokauppa,2400.00,0,2400.00
+T26-008,2026-06-10,Ravintola Kelo Oy,yritys,puhelin,11800.00,0,11800.00
+T26-009,2026-06-12,Kaluste-Kulma Oy,jalleenmyyja,sahkoposti,6600.00,25,4950.00
+T26-010,2026-06-15,Koti & Piha Oy,jalleenmyyja,sahkoposti,4300.00,20,3440.00
+T26-011,2026-06-17,E. Lehtonen,kuluttaja,sahkoposti,900.00,0,900.00
+T26-012,2026-06-18,Huonekaluhalli Lakeus Oy,jalleenmyyja,sahkoposti,3750.00,0,3750.00
+T26-013,2026-06-19,S. Heikkinen,kuluttaja,verkkokauppa,2000.00,0,2000.00
+T26-014,2026-06-22,A. Niemi,kuluttaja,sahkoposti,890.00,0,890.00
+T26-015,2026-06-23,Koti & Piha Oy,jalleenmyyja,puhelin,8200.00,20,6560.00
+T26-016,2026-06-24,Kelokosken kunta,yritys,sahkoposti,7000.00,10,6300.00
+T26-017,2026-06-25,T. Koskinen,kuluttaja,puhelin,2150.00,0,2150.00
+T26-018,2026-06-26,Kaluste-kulma Oy,jalleenmyyja,puhelin,13790.00,25,10342.50
+T26-019,2026-06-29,Kelokosken kunta,yritys,puhelin,2800.00,0,2800.00
+T26-020,2026-06-30,Kaluste-Kulma Oy,jalleenmyyja,puhelin,9390.00,25,7042.50
+T26-021,2026-07-01,Arkkitehtitoimisto Viiva Oy,yritys,sahkoposti,5690.00,0,5690.00
+T26-022,2026-07-02,KALUSTE-KULMA OY,jalleenmyyja,sahkoposti,3490.00,25,2617.50
+T26-023,2026-07-03,Tilitoimisto Numerot Oy,yritys,sahkoposti,2350.00,0,2350.00
+T26-024,2026-07-06,A. Niemi,kuluttaja,puhelin,1500.00,0,1500.00
+T26-025,2026-07-07,J. Mäkelä,kuluttaja,verkkokauppa,2450.00,0,2450.00
+T26-026,2026-07-08,Arkkitehtitoimisto Viiva Oy,yritys,sahkoposti,11800.00,0,11800.00
+T26-027,2026-07-09,H. Rantanen,kuluttaja,verkkokauppa,1900.00,0,1900.00
+T26-028,2026-07-10,Tilitoimisto Numerot Oy,yritys,sahkoposti,3700.00,0,3700.00
+T26-029,2026-07-13,Huonekaluhalli Lakeus Oy,jalleenmyyja,sahkoposti,12200.00,20,9760.00
+T26-030,2026-07-14,Sisustus Pohjola Oy,jalleenmyyja,sahkoposti,12300.00,15,10455.00
+T26-031,2026-07-15,Huonekaluhalli Lakeus Oy,jalleenmyyja,sahkoposti,14990.00,20,11992.00
+T26-032,2026-07-16,E. Lehtonen,kuluttaja,verkkokauppa,1450.00,0,1450.00
+T26-033,2026-07-17,K. Saari,kuluttaja,verkkokauppa,1200.00,0,1200.00
+T26-034,2026-07-21,M. Korhonen,kuluttaja,puhelin,1350.00,0,1350.00
+T26-035,2026-07-27,Hotelli Aavasaksa Oy,yritys,verkkokauppa,7200.00,0,7200.00
+T26-036,2026-07-28,Kaluste-Kulma Oy,jalleenmyyja,puhelin,8450.00,25,6337.50
+T26-037,2026-07-29,S. Heikkinen,kuluttaja,puhelin,1100.00,0,1100.00
+T26-038,2026-07-30,Koti & Piha Oy,jalleenmyyja,sahkoposti,8850.00,20,7080.00
+T26-039,2026-08-03,Ravintola Kelo Oy,yritys,messut,1550.00,0,1550.00
+T26-040,2026-08-04,Sisustus Pohjola Oy,jalleenmyyja,sahkoposti,3100.00,15,2635.00
+T26-041,2026-08-06,L. Virtanen,kuluttaja,messut,1900.00,10,1710.00
+T26-042,2026-08-10,Hotelli Aavasaksa Oy,yritys,sahkoposti,10250.00,0,10250.00
+T26-043,2026-08-11,Huonekaluhalli Lakeus Oy,jalleenmyyja,puhelin,14600.00,20,11680.00
+T26-044,2026-08-12,Sisustus Pohjola Oy,jalleenmyyja,puhelin,9150.00,20,7320.00
+T26-045,2026-08-13,V. Salo,kuluttaja,puhelin,1590.00,0,1590.00
+T26-046,2026-08-19,K. Saari,kuluttaja,sahkoposti,1750.00,0,1750.00
+T26-047,2026-08-20,P. Hiltunen,kuluttaja,sahkoposti,1650.00,0,1650.00
+T26-048,2026-08-21,J. Mäkelä,kuluttaja,sahkoposti,900.00,0,900.00
+T26-049,2026-08-24,V. Salo,kuluttaja,puhelin,590.00,0,590.00
+T26-050,2026-08-25,Kelokosken kunta,yritys,sahkoposti,3200.00,0,3200.00
+T26-051,2026-08-27,Sisustus Pohjola Oy,jalleenmyyja,sahkoposti,11600.00,20,9280.00
